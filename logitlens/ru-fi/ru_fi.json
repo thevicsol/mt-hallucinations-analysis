@@ -1,1 +1,230 @@
-
+{
+    "bad": {
+        "corp": {
+            "1": {
+                "src": "Вскоре показался берег, а на берегу том избушка на курьих ножках.",
+                "mt": "Pian se ilmestyi rannalta, ja rannalla oli kyytien puristusta."
+            },
+            "2": {
+                "src": "Коля на радостях совершенно протрезвел.",
+                "mt": "Kunnia on täysin selvinnyt."
+            },
+            "3": {
+                "src": "Мою Родину стали уважать или, по крайней мере, считаться с ней, - чем не повод для радости Отсутствие трудностей порождает хандру.",
+                "mt": "Minun kodini on kunnioitettu tai ainakin arvostettu - mikä ei ole syytä iloon."
+            },
+            "4": {
+                "src": "Я!.. я!.. я!.. -- только и слышишь, как ты сам себя возвеличиваешь.",
+                "mt": "Minä... minä... minä... Sinä vain kuulet, miten sinä itseäsi ylistä."
+            },
+            "5": {
+                "src": "Я попробовал на вкус.",
+                "mt": "- Minä yritin."
+            },
+            "6": {
+                "src": "\"Когда есть любимая работа\"!",
+                "mt": "\"Kun minulla on lempiasuntoni\"!"
+            },
+            "7": {
+                "src": "ВРАЧ -- МОДЕСТ ИЛЬИЧ.",
+                "mt": "- Todella."
+            },
+            "8": {
+                "src": "О моей позиции в связи с про- исшедшим.",
+                "mt": "O minun asemani menneisyydestä."
+            },
+            "9": {
+                "src": "Мария шла, не торопясь, рядом с высоким, сутулым, седовласым мужчиной.",
+                "mt": "Maria meni, ei kiirehti, lähellä korkeaa, tyttöntä, punaista miestä."
+            },
+            "10": {
+                "src": "- Валерьян задохнулся от натуги.",
+                "mt": "Valerian on kuollut."
+            }
+        },
+        "compl": {
+            "1": {
+                "src": "Валяясь на диване с твердыми допотопными валиками, с просевшими пружинами, покуривая, поглядывал Денисов на карту полушарий и не одобрял расположения континентов.",
+                "mt": "Kun hän oli kallioissa, jossa oli kovaa ja lämpimäistä valkuaisia, hän katsoi Denisovia kartalla ja ei hyväksynyt maanosastoja."
+            },
+            "2": {
+                "src": "Кстати, стрелки из поезда на железной дороге вообще и в метро в частности из кабины не переводятся, а здоровенный штурвал, стоящий в кабинах старых поездов, приводит в действие ручной тормоз.",
+                "mt": "Itse asiassa rautatie- ja metrotallien ohjat eivät siirty kaapista, mutta vanhojen junatalojen kaapissa oleva terveellinen turvaili johtaa käsikäyttöön."
+            },
+            "3": {
+                "src": "Держа в руках нож, острие которого было направлено в нежную тушу Крэка, он застыл метрах в семи.",
+                "mt": "Kun hän piti kädessäsa miehen, jonka rinta oli lähetetty Kreikan maahan, hän sattui seitsemän metrin päässä."
+            },
+            "4": {
+                "src": "Вот я и подошла к кукольному трюмо в лилиях и наядах, присела и при свете коптилки присмотрелась к ничтожной себе: лысая, в мамкой сшитой ситцевой телогрейке.",
+                "mt": "Tuossa minä kävin kukkihuoneessa, - liiliin ja najat, - ja istuin ja katselin, kun oli paljon, - itseni, hiukseni, äitini, - silmällä, silmällä, - silmällä."
+            },
+            "5": {
+                "src": "Эти нагрузки изгибают клинок сначала в одну, а потом в другую сторону, в итоге придавая ему знаменитую изогнутую форму - за счет различной закалки лезвия и обуха.",
+                "mt": "Nämä paineet ohjaavat kliikkiä ensin yhteen ja sitten toiseen, ja lopulta antavat sille kuuluisan käärimän muoto - eri lajejen ja lajejen avulla."
+            },
+            "6": {
+                "src": "Понюхав нашатыря, он пришел в себя, и тут уж Эмма Ашотовна взяла своего зятя под руку и повела через Садовую, по Спиридоновке, через Никитскую к дому, в Мерзляковский переулок.",
+                "mt": "Kun hän oli menossa, hän tuli itsekseen, ja sitten Emma Ashotovna otti vihollisensa käsiinsä ja johdatti hänet Sadoville, Spiridonovkeille, Nikitskyn taloon, Merzlakovsin kulkuun."
+            },
+            "7": {
+                "src": "Он уже расчистил довольно широкую полосу, и там плотно, крепко круглились сероватые в просинь и розоватость лобастые булыжники, а дальше шоссе терялось в густой поросли сорняков.",
+                "mt": "Hän oli jo puhdistanut melko laajan alueen, ja siellä tiheä, vahvasti pyörimässä olivat harmaat ja vaaleat, ja sitten tie hukkui ruohokasteiden."
+            },
+            "8": {
+                "src": "В Барнауле собирают большегрузные МАЗы в 25, 75 и 110 тонн из белорусских запчастей - кто мешает наладить их производство в соседних регионах?",
+                "mt": "Barnaulin alueella kerätään suurempia rasitettavia tuotantolaitoksia 25, 75 ja 110 tonnia - kuka estää niiden tuotantoa naapurimaissa?"
+            },
+            "9": {
+                "src": "В Заполярье же который год сотни тысяч \" энтузиастов \", приехавших за \" длинным рублем \" еще до 1991 года, не могут выехать \" на материк некуда и _ не на что.",
+                "mt": "Vuonna 1991 \"pitkän työhön\" saapuneet satoja tuhansia entusiasteja ei pystynyt lähtemään maanmaan."
+            },
+            "10": {
+                "src": "Мембраны, ограниченные перегородками, нужно собрать в пакет, тогда то, что не доберет в исходном растворе одна мембрана, доберет вторая, третья и т. д.",
+                "mt": "Muiden jäsenten, rajoitettujen alueiden, täytyy kokoontaa pakettiin, niin että se, mikä ei ole saavutettu yhden jäsenten alkuperäisessä ratkaisussa, voi olla toinen, kolmas jne."
+            }
+        },
+        "med": {
+            "1": {
+                "src": "Развитие и прогрессирование асептической язвы роговицы во многом определяются активностью протеолитических ферментов в строме роговицы, а поскольку ее отражает коллагенолитическая активность конъюнктивальной жидкости, то оценка данного параметра представляет большой практический и научный интерес.",
+                "mt": "Rogiin aseptiikan kehitystä ja kehitystä määrittää monen tavoin proteolitisten fermien aktiivisuus rogiin rakennuksessa, ja koska se heijastaa kollagenolitista aktiivisuutta lievessä, tämän parametrin arviointi on suuri käytännön ja tieteellinen kiinnostus."
+            },
+            "2": {
+                "src": "У пациентов 2-й группы МКОЗ улучшилась с 0,29±0,07 до 0,34±0,07, ВГД снизилось с 26,8±1,6 до 18,7±0,4 мм рт. ст. Осложнения: интраоперационная офтальмогипертензия — у 1 (3,4%) пациента, пролапс СТ при синустрабекулэктомии — у 3 (10,3%), гифема — у 8 (27,6%), ЦХО — у 6 (20,7%), сублюксация ИОЛ — у 2 (6,9%).",
+                "mt": "2. ryhmän potilailla MKOZ parani 0,29±0,07:stä 0,34±0,07:een, VGD laski 26,8±1,6:stä 18,7±0,4 mm:n alttiiksi."
+            },
+            "3": {
+                "src": "Каталин показан при возрастной катаракте со слабой или средней степенью интенсивности помутнения хрусталиковых масс.",
+                "mt": "Katalinassa on esiintynyt ikäkataraktessa ruostokirjojen liikevaihdunta on heikko tai keskimääräinen."
+            },
+            "4": {
+                "src": "Репаративная терапия при экзогенном повреждении роговой оболочки",
+                "mt": "Korkeakoulujen eksoogenivaurioitus"
+            },
+            "5": {
+                "src": "Помутнение хрусталика происходит, когда его водорастворимые белки начинают денатурировать и превращаться в непрозрачные вещества под воздействием хиноидных соединений.",
+                "mt": "Krustalisin muutos tapahtuu, kun sen vesiliuotettavat proteiinit alkavat denaturisoida ja muuttua läpinäkyvämmiksi aineiksi kiinoidien vaikutuksen alaisena."
+            },
+            "6": {
+                "src": "Отграниченная гемангиома хориоидеи: особенности течения, лечение",
+                "mt": "Odграниченная гемангиома хориоидеи: erikoisominaisuudet"
+            },
+            "7": {
+                "src": "Факторный анализ влияния катаракты, сочетанной с СО, и глаукомы, сочетанной с СО, показал наибольшую факторную нагрузку в обеих группах на формирование зависимости от окружающих при вдевании нитки в иглу (0,829 и 0,572 соответственно) и при стрижке ногтей (0,807 и 0,469 соответственно), однако влияние катаракты и СО на развитие ограничений, касающихся данных видов деятельности в повседневной жизни, более существенно, чем влияние глаукомы и СО.",
+                "mt": "Kataraattien ja valvonnan vaikutuksen faktorinen analyysi, joka on tehty yhdessä SO:n ja valvonnan kanssa, on osoittanut, että molempien ryhmien vaikutus ympäristön riippuvuuden muodostamiseen kataraattien ja valvonnan vaikutukseen (0,829 ja 0,572 vastaavasti) ja valvonnan leikkaan (0,807 ja 0,469 vastaavasti) on suurinta kuin valvonnan ja valvonnan vaikutukset päivittäiseen elämään liittyvien rajoitusten kehittämiseen."
+            },
+            "8": {
+                "src": "Морфофункциональные изменения сетчатки в условиях послеоперационной гипотонии",
+                "mt": "Verkon morfunktionaaliset muutokset operaatiota jälkeisen hypotoniaan olosuhteissa"
+            },
+            "9": {
+                "src": "Чтобы предотвратить необратимое снижение остроты зрения, при назначении существующих терапевтических схем лечения ЭКК следует применять грамотный индивидуальный подход. Для цитирования : Труфанов С.В., Маложен С.А., Крахмалева Д.А., Пивин Е.А. Аденовирусный эпидемический кератоконъюнктивит // РМЖ. Клиническая офтальмология. 2016. № 3.",
+                "mt": "Jotta ehkäisemään silmähuononon epäröimistä vähenemistä, on käytettävä taitava yksilöllistä lähestymistapaa nykyisten hoitokeskustelun yhteydessä."
+            },
+            "10": {
+                "src": "Степень выраженности объективных симптомов ССГ зависит от режима медикаментозной терапии.",
+                "mt": "SSS:n objektiivisten oireiden selkeyden aste riippuu lääketieteellisestä hoidosesta."
+            }
+        },
+        "typos": {
+            "1": {
+                "src": "Гдеплодят такиэ противныж С виду тихрх и наивных...",
+                "mt": "Missä he ovat? He ovat täällä."
+            },
+            "2": {
+                "src": "ВРЕЧ -- МОДЕСТ ИЛЬИЧ.",
+                "mt": "- Onnistuin."
+            },
+            "3": {
+                "src": "Коля на надостях човероенно протрезвел.",
+                "mt": "- Hän on ollut hyvin helppo."
+            },
+            "4": {
+                "src": "Ты к суоём ме Ты что, солнышком кшнтужее Это тпбе не курорт.",
+                "mt": "- En ole turkki. - En ole turkki."
+            },
+            "5": {
+                "src": "Сотврил рмяное яблоко на затрак, похрустел с апеетитом.",
+                "mt": "Hän on tehnyt paljon rahaa, mutta ei mitään."
+            },
+            "6": {
+                "src": "-А вещт Тащить на себе одмгнадцать киломтров лесом -Вещр, пгжалуй,сбросить надо бу, - сонно пртбормотал Юрий и полскосил на смденье от вопля Еы: - Бгря!",
+                "mt": "- A Thing To Protect On Itselleen Tammikymmentä Kilometriä Metsästä - - Vihreä, kiitos, hylkäämmekin sen, - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -"
+            },
+            "7": {
+                "src": "Тьнкий пейлрн пополз длпнными ячеистыми стралками.",
+                "mt": "Se on ollut hyvin helppoa."
+            },
+            "8": {
+                "src": "Я попробовал на вкус.",
+                "mt": "- Minä yritin."
+            },
+            "9": {
+                "src": "Кое-какребёночка сорудли.",
+                "mt": "- Hän on vain yksi."
+            },
+            "10": {
+                "src": "Сюде, на сапое вилное место Москвы, к сешащим навстречу камерам тклернпортёров отеяественных и зарулежных программ ппиходили будудип лидеы партий,движений заводилц и модстрекатели, те, кто искренне хоиели узнать правду от умных людей и самиумные юди, профессора и боцегты, кан- дидаты и доктора наук, кототые хотели эту правдц скрыть жа пучтыми нчего не значащими фразами,ничем конкретным не помогвющими, по облегчающими ушу паровы методом.",
+                "mt": "Tässä, Moskovan parhaassa paikassa, paikallisten ja ulkomaisten ohjelmien tiedottajien kameroiden edessä, jotka olivat paikallisia ja ulkomaisia ohjelmia, oli tulevaisuuden puolueiden, liikkeiden, laitosten ja moderatoiden johtajia, jotka olivat vilpittömästi halunneet oppia totuutta älykkäältä ihmiseltä ja itsekäseltä juudilta, professoreilta ja professoreilta, professoreilta ja professoreilta, jotka halusivat piilottaa oikeutta niiden sanojen avulla, jotka eivät merkitse mitään, eikä konkreettisesti auttamatta, helpottaen näitä sanoja."
+            }
+        }
+    },
+    "good": {
+        "corp": {
+            "1": {
+                "src": "Я не хочу говорить о них.",
+                "mt": "En halua puhua niistä."
+            },
+            "2": {
+                "src": "Но здесь, конечно, была тоже тактическая ошибка.",
+                "mt": "Mutta tässä oli myös taittinen virhe."
+            },
+            "3": {
+                "src": "Но чего-то недоставало.",
+                "mt": "Mutta jotain puuttui."
+            }
+        },
+        "compl": {
+            "1": {
+                "src": "Ученые установили, что эта разница в поведении сопровождается и разницей в активности FOXP2.",
+                "mt": "Tutkijat ovat havainneet, että tämä käyttäytymisen ero liittyy FOXP2:n aktiivisuuden eroon."
+            },
+            "2": {
+                "src": "Эти страны будут испытывать серьезные экономические трудности, и сохранение в них современного экономического роста в рассматриваемом понимании проблематично.",
+                "mt": "Nämä maat kärsivät vakavista taloudellisista vaikeuksista ja niiden nykyisen talouskasvun säilyttäminen käsiteltävässä käsityksessä on ongelmaa."
+            },
+            "3": {
+                "src": "Обычно все телефонные номера, фигурирующие в американских картинах, начинаются с несуществующего префикса 555, но в этот раз сценаристы для пущей убедительности ввели в фильм настоящий номер.",
+                "mt": "Yleensä kaikki amerikkalaisissa elokuvissa esiintyvät puhelinnumerat alkavat olemattomasta 555 -nimestä, mutta tällä kertaa käsikirjoittajia on tuotu elokuvaan todellinen numero."
+            }
+        },
+        "med": {
+            "1": {
+                "src": "Для получения более точных и объективных результатов используются приборы, работающие на новых принципах: тонометры PASCAL, ORA, ICare.",
+                "mt": "Täsmälleen ja objektiivisempien tulosten saamiseksi käytetään uusia periaatteita noudattavat laitteet: PASCAL, ORA, ICare."
+            },
+            "2": {
+                "src": "Год с COVID-19 радикально изменил отношение ко многим процессам взаимодействия врача и пациента.",
+                "mt": "COVID-19 on muuttanut radikaalisti monen lääkäri-potilaan vuorovaikutuksen prosessin."
+            },
+            "3": {
+                "src": "Ретроспективно изучены результаты ранее проведенной брахитерапии (35 человек), медиана возраста на момент лечения — 36,34 года.",
+                "mt": "Edellä tehtyjen brakiteerapian tulokset (35 ihmistä) tutkittiin retrospektiivisesti, ja medianiikä hoidon hetkellä oli 36,34 vuotta."
+            }
+        },
+        "typos": {
+            "1": {
+                "src": "Потом женщиы уходили.",
+                "mt": "Sitten naiset lähtivät."
+            },
+            "2": {
+                "src": "Но теперь уже никто не смжет запретить ме быть с ним рядьа!",
+                "mt": "Mutta nyt kukaan ei voi estää minua olemaan hänen kanssaan."
+            },
+            "3": {
+                "src": "Наутро в понедельгик мне надо було ехатб на работу.",
+                "mt": "Minun piti mennä töihin maanantaina."
+            }
+        }
+    }
+}
